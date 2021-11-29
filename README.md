@@ -1,0 +1,1 @@
+Default conf of nginx
